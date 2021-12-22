@@ -25,12 +25,14 @@ def HMAC(key, msg=None):
 
 
 def SHA1(msg, digest_salt=None):
-    if not digest_salt:
+    if digest_salt == None:
         raise Exception(
             "Please provide `digest_salt` option; you can disable this Exception by explicitly passing an empty string."
         )
 
     bin_digest_salt = digest_salt.encode()
+    if isinstance(msg, str):
+        msg = msg.encode()
 
     sha1_algo = sha1()
     sha1_algo.update(msg+bin_digest_salt)
