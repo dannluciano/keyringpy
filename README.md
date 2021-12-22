@@ -185,3 +185,14 @@ Icon made by [Icongeek26](https://www.flaticon.com/authors/icongeek26) from
 Everyone interacting in the **keyring** project’s codebases, issue trackers,
 chat rooms and mailing lists is expected to follow the
 [code of conduct](https://github.com/dannluciano/keyring-python/blob/main/CODE_OF_CONDUCT.md).
+
+## Acknowledgments
+
+Inspired:
+
+* by [@fnando](https://github.com/fnando) on [keyring-node](https://github.com/fnando/keyring-node) and [attr_keyring](https://github.com/fnando/attr_keyring)
+* and by Corona Virus
+
+Thanks to [IFPI](https://www.ifpi.edu.br/) for pay my salary!
+
+![IFPI](https://github.com/dannluciano/liveboards/raw/master/doc/ifpi.png)
