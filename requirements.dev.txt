@@ -1,3 +1,7 @@
 pycryptodome
 pytest
 pytest-cov
+wheel
+setuptools
+twine
+

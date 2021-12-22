@@ -1,4 +1,4 @@
-from keyring import Keyring;
+from keyringpy import Keyring;
 
 keys = { '1': "uDiMcWVNTuz//naQ88sOcN+E40CyBRGzGTT7OkoBS6M=" }
 encryptor = Keyring(keys, { "digest_salt": "salt-n-pepper" })

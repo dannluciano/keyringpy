@@ -2,7 +2,7 @@ import json
 import os
 import pytest
 
-from keyring.keyring import SHA1
+from keyringpy.keyring import SHA1
 
 
 def test_SHA1():

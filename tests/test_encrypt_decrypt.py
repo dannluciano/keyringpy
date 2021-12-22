@@ -2,7 +2,7 @@ import json
 import os
 import pytest
 
-from keyring.keyring import Keyring
+from keyringpy.keyring import Keyring
 
 
 def test_Keyring_encrypt():
