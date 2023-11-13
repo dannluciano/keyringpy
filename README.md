@@ -17,7 +17,7 @@ providing a few functions that could be easily integrated with any ORM.
 Add package to your `requirements.txt` or:
 
 ```console
-pip install keyring
+pip install keyringpy
 ```
 
 ## Usage
